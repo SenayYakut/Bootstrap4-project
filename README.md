@@ -5,6 +5,7 @@
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/News-Bootstrap4-project.git
 ```
 
 ## Usage
